@@ -1,6 +1,6 @@
 # Node.Js Email OTP/Verification API
 
-# A node.js api to implement email OTP and verification.
+## A node.js api to implement email OTP and verification.
 
 I have written an article on medium to guide you through on how to achieve this in the below link:
 
